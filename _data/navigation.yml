@@ -11,7 +11,12 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
   - title: "La Storia"
+    url: /storia/
   - title: "Majorettes"
     url: /majorettes/
   - title: "La Banda"
+    url: /banda/
   - title: "La Scuola"
+    url: /scuola/
+  - title: "Galleria"
+    url: /galleria/
