@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : #"Banda Musicale Autonoma Santa Cecilia"
-  avatar           : #"/assets/images/favicon.ico"
+  avatar           : "/assets/images/logo.png"
   bio              : #""
   location         : "Villafranca Piemonte"
   email            : "info@bandamusicale-villafrancapte.it"
