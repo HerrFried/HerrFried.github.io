@@ -11,7 +11,7 @@ permalink: /contatti/
 - **Youtube:** [https://www.youtube.com/user/BandaSCeciliaVIlla](https://www.youtube.com/user/BandaSCeciliaVIlla
 )
 
-# Direttivo
+## Direttivo
 
 - **Presidente:** GALLO Federica
 - **Vicepresidente:** DOLEATTO Lorenzo
@@ -22,7 +22,7 @@ permalink: /contatti/
   - *Responsabile Archivio:* ROLLE' Andrea
   - *Responsabile Corso Allievi:* ODETTI Oscar
 
-# Riferimenti
+## Riferimenti
 
 - [Comune di Villafranca Piemonte](http://www.comune.villafrancapiemonte.to.it/)
 - [Anbima Piemonte](http://www.anbimapiemonte.it/)
@@ -30,7 +30,7 @@ permalink: /contatti/
 - [Mondo Bande](http://www.mondobande.it/)
 - [BandaMusicale.it](http://www.bandamusicale.it/)
 
-# Siti dei nostri amici
+## Siti dei nostri amici
 
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
 - [Banda Musicale "San Lorenzo" di Cavour](http://www.alpimedia.it/bandamusicale.sanlorenzo/) **NON VA**
