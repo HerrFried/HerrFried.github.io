@@ -36,7 +36,7 @@ gallery:
     title: "Sfilata 2000"
 ---
 # La Banda Musicale
-La nostra Banda Musicale è composta da circa 30 musici dilettanti, con un'età compresa tra i 10 e i 55 anni. Svolge servizi musicali in occasione di ricorrenze civili, religiose, folkloristiche, sotto forma di sfilate, esibizioni o concerti. Il venerdì sera (dalle 20:00 alle 23:00) è dedicato alle prove: ci si ritrova tutti nella sede e insieme  si preparano marce o pezzi da concerto: spartiti classici , moderni, pezzi della tradizione popolare di diversi paesi e nazioni, melodie religiose e militari.  {: .text-justify}  
+La nostra Banda Musicale è composta da circa 30 musici dilettanti, con un'età compresa tra i 10 e i 55 anni. Svolge servizi musicali in occasione di ricorrenze civili, religiose, folkloristiche, sotto forma di sfilate, esibizioni o concerti. Il venerdì sera (dalle 20:00 alle 23:00) è dedicato alle prove: ci si ritrova tutti nella sede e insieme  si preparano marce o pezzi da concerto: spartiti classici , moderni, pezzi della tradizione popolare di diversi paesi e nazioni, melodie religiose e militari.  
 Dal 2005 la Banda Musicale è diretta dal maestro Alessandro Faccin sotto la presidenza di Federica Gallo dal 2013. La Madrina è la signora Maria Teresa Vottero.  
 {: .text-justify}  
 # Il gruppo tamburi
