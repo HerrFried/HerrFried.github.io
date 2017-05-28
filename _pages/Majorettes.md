@@ -1,4 +1,5 @@
 ---
+layout: home
 permalink: /majorettes/
 ---
 # Il Gruppo Majorettes

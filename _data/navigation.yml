@@ -12,5 +12,6 @@ main:
   #   url: /sitemap/
   - title: "La Storia"
   - title: "Majorettes"
+    url: /majorettes
   - title: "La Banda"
   - title: "La Scuola"
