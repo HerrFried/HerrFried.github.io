@@ -10,8 +10,10 @@ permalink: /contatti/
 - **Youtube:** [https://www.youtube.com/user/BandaSCeciliaVIlla](https://www.youtube.com/user/BandaSCeciliaVIlla
 )
 
-## Direttivo
+## Direttivo & Cariche
+- **Maestro:** Prof. FACCIN Alessandro
 - **Presidente:** GALLO Federica
+- **Capitana Majorettes:** BRUNO Isabella
 - **Vicepresidente:** DOLEATTO Lorenzo
 - **Tesoriere:** BARBERO Federico
 - **Segretario:** PONZIO Carla
