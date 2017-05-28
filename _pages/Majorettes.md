@@ -12,3 +12,6 @@ Musicale.
 Perché non provare a fare qualcosa di nuovo e divertente per migliorare l'immagine della Banda
 e per aumentare la sua competitività nei confronti di altri gruppi musicali?  
 **Il 18 Gennaio 2000 cominciò l'avventura........**
+{: .text-justify}
+{% include figure image_path="/assets/images/Majorettes.jpg" alt="Majorettes" caption="Il nuovo gruppo majorettes" %}  
+{% include figure image_path="/assets/images/MajoBarge.jpg" alt="Majorettes a Barge" caption="Majorettes in un servizio a Barge" %}  
