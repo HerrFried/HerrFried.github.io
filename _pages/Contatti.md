@@ -3,7 +3,6 @@ layout: single
 permalink: /contatti/
 ---
 # Contatti
-
 - **Sede:** Via Valzania 10, 10068 Villafranca Piemonte (TO) 
 - **Telefono:**  (+39) 333 954 8866
 - **E-Mail:** <info@bandamusicale-villafrancapte.it>
@@ -12,7 +11,6 @@ permalink: /contatti/
 )
 
 ## Direttivo
-
 - **Presidente:** GALLO Federica
 - **Vicepresidente:** DOLEATTO Lorenzo
 - **Tesoriere:** BARBERO Federico
@@ -23,7 +21,6 @@ permalink: /contatti/
   - *Responsabile Corso Allievi:* ODETTI Oscar
 
 ## Riferimenti
-
 - [Comune di Villafranca Piemonte](http://www.comune.villafrancapiemonte.to.it/)
 - [Anbima Piemonte](http://www.anbimapiemonte.it/)
 - [Anbima Nazionale](http://www.anbima.it/)
@@ -31,7 +28,6 @@ permalink: /contatti/
 - [BandaMusicale.it](http://www.bandamusicale.it/)
 
 ## Siti dei nostri amici
-
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
 - [Banda Musicale "San Lorenzo" di Cavour](http://www.alpimedia.it/bandamusicale.sanlorenzo/) **NON VA**
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
