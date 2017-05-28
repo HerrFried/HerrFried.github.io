@@ -1,6 +1,6 @@
 # main links
 main:
-  #- title: "Quick-Start Guide"
+  # - title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
@@ -12,6 +12,6 @@ main:
   #   url: /sitemap/
   - title: "La Storia"
   - title: "Majorettes"
-    url: /majorettes
+    url: /majorettes/
   - title: "La Banda"
   - title: "La Scuola"
