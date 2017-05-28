@@ -2,7 +2,6 @@
 layout: single
 permalink: /contatti/
 ---
-
 # Contatti
 
 - **Sede:** Via Valzania 10, 10068 Villafranca Piemonte (TO) 
@@ -34,13 +33,13 @@ permalink: /contatti/
 # Siti dei nostri amici
 
 - [Filarmonica Piobesina](http://www.filarmonicapiobesina.it/)
-- [Banda Musicale "San Lorenzo" di Cavour](http://www.alpimedia.it/bandamusicale.sanlorenzo/)
+- [Banda Musicale "San Lorenzo" di Cavour](http://www.alpimedia.it/bandamusicale.sanlorenzo/) **NON VA**
 - [Congedati della Fanfara Brigata Alpina Taurinense](http://www.congedatifanfarataurinense.it/)
-- [Color Brass Band](http://www.colorbrass.it/)
+- [Color Brass Band](http://www.colorbrass.it/) **NON VA**
 - [Amici del Po](http://www.amicidelpo.net/)
 - [Comitato 'l ciuchè](http://www.comitatolciuche.it/)
 - [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
 - [Piero Strobino](http://spazioinwind.libero.it/strobino/)
 - [Devalleandrea Arredamenti Mongano - Radici](http://www.devalleandrea.it/)
-- [Doleatto Lorenzo Acconciature](http://www.lorenzodoleatto.com/)
-- [Associazione Amici Bambini Cardiopatici](http://www.aabambinicardiopatici.it/Home.html)
+- [Doleatto Lorenzo Acconciature](http://www.lorenzodoleatto.com/) **NON VA**
+- [Associazione Amici Bambini Cardiopatici](http://www.aabambinicardiopatici.it/Home.html) **NON VA**
