@@ -14,7 +14,6 @@ gallery:
     alt: "L'Eco del Chisone"
     title: "L'Eco del Chisone"
 ---
-# Inaugurazione nuova sede
 {% include figure image_path="/assets/images/posts/20120922/Pubblicazione1a.jpg" alt="Pubblicazione inaugurazione sede" %}  
 
 ### Copertura giornalistica
