@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 permalink: /majorettes/
 ---
 # Il Gruppo Majorettes  
