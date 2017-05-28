@@ -3,11 +3,13 @@ layout: single
 permalink: /scuola/
 ---
 # La Scuola
-Chi fosse interessato ad imparare a suonare uno strumento musicale, o a diventare majorette si può presentare nelle rispettive sedi agli orari sotto elencati. Ricordiamo,se minorenne, di venire possibilmente accompagnato da un genitore.  
+Chi fosse interessato ad imparare a suonare uno strumento musicale, o a diventare majorette si può presentare nelle rispettive sedi agli orari sotto elencati. Ricordiamo, se minorenne, di venire possibilmente accompagnato da un genitore.  
 {: .text-justify}
+Per qualunque altra informazione visitate la sezione [contatti](/contatti/).
+{: .text-justify}  
 
 ## Scuola Musici
-Chi fosse interessato ad imparare a suonare uno strumento musicale, può recarsi, per informazioni, presso la sede della banda musicale in v. Valzania 10 tutti i Venerdì a partire dalle ore 21.00.  
+Chi fosse interessato ad imparare a suonare uno strumento musicale, può recarsi, per informazioni, presso la sede della Banda Musicale in v. Valzania 10 tutti i venerdì a partire dalle ore 21.00.  
 {: .text-justify}  
 
 ## Scuola Majorettes
