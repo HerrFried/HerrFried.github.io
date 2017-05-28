@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /contatti/
+permalink: /banda/
 gallery:
   - url: /assets/images/02_GT.jpg
     image_path: /assets/images/02_GT.jpg
