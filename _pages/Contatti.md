@@ -39,5 +39,5 @@ permalink: /contatti/
 - [Traghetto sul fiume Po](http://web.tiscali.it/traghettosulpo/)
 - [Piero Strobino](http://spazioinwind.libero.it/strobino/)
 - [Devalleandrea Arredamenti Mongano - Radici](http://www.devalleandrea.it/)
-- [Doleatto Lorenzo Acconciature](http://www.lorenzodoleatto.com/) **NON VA**
+- [Doleatto Lorenzo Acconciature](http://www.doleattolorenzo.com/)
 - [Associazione Amici Bambini Cardiopatici](http://www.aabambinicardiopatici.it/Home.html) **NON VA**
