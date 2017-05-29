@@ -10,14 +10,16 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: "La Storia"
-    url: /storia/
-  - title: "Majorettes"
-    url: /majorettes/
   - title: "La Banda"
     url: /banda/
+  - title: "Le Majorettes"
+    url: /majorettes/
   - title: "La Scuola"
     url: /scuola/
+  - title: "La Storia"
+    url: /storia/
+  - title: "Calendario Eventi"
+    url: /calendario/
   - title: "Galleria"
     url: /galleria/
   - title: "Contatti"
