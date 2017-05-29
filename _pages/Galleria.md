@@ -17,15 +17,6 @@ gallery:
   - url: https://goo.gl/photos/x5zpCcMUtKdU3kXB8
     image_path: /assets/images/gallery_thumbnails/2008.JPG
     alt: "Immagini 2008"
-  - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
-    image_path: /assets/images/gallery_thumbnails/2010.JPG
-    alt: "Immagini 2010"
-  - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
-    image_path: /assets/images/gallery_thumbnails/2010.JPG
-    alt: "Immagini 2010"
-  - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
-    image_path: /assets/images/gallery_thumbnails/2010.JPG
-    alt: "Immagini 2010"
 ---
 Qui di seguito la galleria fotografica della nostra Banda Musicale  
 {: .text-justify}
