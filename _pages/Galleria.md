@@ -14,16 +14,16 @@ gallery:
   - url: https://goo.gl/photos/y58vyKYbZeomWiq68
     image_path: /assets/images/gallery_thumbnails/2009.jpg
     alt: "Immagini 2009"
-    - url: https://goo.gl/photos/x5zpCcMUtKdU3kXB8
+  - url: https://goo.gl/photos/x5zpCcMUtKdU3kXB8
     image_path: /assets/images/gallery_thumbnails/2008.JPG
     alt: "Immagini 2008"
-    - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
+  - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
     image_path: /assets/images/gallery_thumbnails/2010.JPG
     alt: "Immagini 2010"
-    - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
+  - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
     image_path: /assets/images/gallery_thumbnails/2010.JPG
     alt: "Immagini 2010"
-    - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
+  - url: https://goo.gl/photos/CVBHTLz9jia7m4jw7
     image_path: /assets/images/gallery_thumbnails/2010.JPG
     alt: "Immagini 2010"
 ---
