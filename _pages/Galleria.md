@@ -6,6 +6,7 @@ gallery:
     image_path: /assets/images/gallery_thumbnails/Storiche.jpg
     alt: "Immagini storiche"
     title: "Immagini storiche"
+    caption: "Immagini storiche"
   - url: https://goo.gl/photos/CRSkocFUqPskRfgu5
     image_path: /assets/images/gallery_thumbnails/LaLoupe.jpg
     alt: "Gemellaggio con l'Harmonie de la Loupe"
